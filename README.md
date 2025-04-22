@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# React-Learning-Lab
+Welcome to my React Learning Lab! 🎯
+
+In this lab, I will be learning React from scratch and updating it daily with everything I practice — from basic concepts to small projects. This is my personal space to experiment, explore, and grow.
+>>>>>>> 98e699ec36c05701382b8dbe2698d4b71590c8b5
